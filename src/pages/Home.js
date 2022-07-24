@@ -45,7 +45,7 @@ function Home() {
             <span>
               ReactJS, React Native, Redux, HTML, CSS, BootStrap, MaterialUI,
               React router dom, StyledComponents, GIT, Framer Motion, React
-              Slick, React Reveal.
+              Slick, React Reveal, React Spring.
             </span>
           </li>
           <li className="item">
