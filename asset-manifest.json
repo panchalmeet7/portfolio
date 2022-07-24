@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.912e2fd7.css",
+    "main.js": "/portfolio/static/js/main.27693e17.js",
+    "static/js/787.fb771931.chunk.js": "/portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/worldnewsclone.png": "/portfolio/static/media/worldnewsclone.68067211eeb6aa0f8c43.png",
+    "static/media/todolist.jpg": "/portfolio/static/media/todolist.d3937d39157e3d9e173b.jpg",
+    "static/media/hotelclone.jpg": "/portfolio/static/media/hotelclone.642d860678dd52d6e37d.jpg",
+    "static/media/teslaclonelogo.jpg": "/portfolio/static/media/teslaclonelogo.d29cb446b6c29636d244.jpg",
+    "static/media/netflixclone.jpg": "/portfolio/static/media/netflixclone.52d661a4af1cd4216eb2.jpg",
+    "static/media/proj2.jpg": "/portfolio/static/media/proj2.496e4d289eaa0f409ab8.jpg",
+    "static/media/gtngamelogo.png": "/portfolio/static/media/gtngamelogo.641ed102ffea5310bd71.png",
+    "static/media/instaclonelogo.webp": "/portfolio/static/media/instaclonelogo.4de09d04625121886e27.webp",
+    "index.html": "/portfolio/index.html",
+    "main.912e2fd7.css.map": "/portfolio/static/css/main.912e2fd7.css.map",
+    "main.27693e17.js.map": "/portfolio/static/js/main.27693e17.js.map",
+    "787.fb771931.chunk.js.map": "/portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.912e2fd7.css",
+    "static/js/main.27693e17.js"
+  ]
+}
