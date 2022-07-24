@@ -43,9 +43,9 @@ function Home() {
           <li className="item">
             <h2> Front-End</h2>
             <span>
-              ReactJS, Redux, HTML, CSS, BootStrap, MaterialUI, React router
-              dom, StyledComponents, GIT, Framer Motion, React Slick, React
-              Reveal.
+              ReactJS, React Native, Redux, HTML, CSS, BootStrap, MaterialUI,
+              React router dom, StyledComponents, GIT, Framer Motion, React
+              Slick, React Reveal.
             </span>
           </li>
           <li className="item">
